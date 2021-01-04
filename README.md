@@ -17,10 +17,10 @@ Firstly, the analysis started by condensing the data sets of six months of data 
 
 Lastly, using the exported csv of the joined and randomized dataset, the analysis using Tablaeu could begin. The analysis of the Citi Bike data set out ot answer three specific questions.
 
-*
+* How did Citi Bike usage differ between the genders as it pertains to subscription status, trip duration, and age?
 
-*
+* How did Citi bike usage change with the seasons?
 
-*
+* Where are the most used Citi Bike stations in New York City? (Least used?)
 
 Here [link] I created a Tableau story in order to neatly visualize the analysis as well as put all of the questions next to the data visualiztions that answer them.
