@@ -23,4 +23,4 @@ Lastly, using the exported csv of the joined and randomized dataset, the analysi
 
 * Where are the most used Citi Bike stations in New York City? (Least used?)
 
-Here [link] I created a Tableau story in order to neatly visualize the analysis as well as put all of the questions next to the data visualiztions that answer them.
+[Here](https://public.tableau.com/profile/michael.neustadter#!/vizhome/CitiBikeChallenge_16047901573030/Story1) I created a Tableau story in order to neatly visualize the analysis as well as put all of the questions next to the data visualiztions that answer them.
