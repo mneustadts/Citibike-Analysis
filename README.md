@@ -16,7 +16,11 @@ Firstly, the analysis started by condensing the data sets of six months of data 
 ![export](./screen/export.png?raw=true "export")
 
 Lastly, using the exported csv of the joined and randomized dataset, the analysis using Tablaeu could begin. The analysis of the Citi Bike data set out ot answer three specific questions.
+
 *
+
 *
+
 *
+
 Here [link] I created a Tableau story in order to neatly visualize the analysis as well as put all of the questions next to the data visualiztions that answer them.
